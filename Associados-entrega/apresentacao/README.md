@@ -1,1 +1,1 @@
-aqui será colocados arquivos da apresentação em slides, por exemplo
+aqui será colocados arquivos da apresentação em slides, por exemplo.

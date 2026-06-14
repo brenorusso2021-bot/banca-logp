@@ -1,0 +1,1 @@
+aqui serão colocados palpites e interação com o usuario, embora, majoritariamente, será inútil.

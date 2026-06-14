@@ -1,1 +1,1 @@
-aqui será colocado o código usado para a criação do site associado
+aqui será colocado o código usado para a criação do site associado.

@@ -1,0 +1,1 @@
+aqui serão colocados realotórios de bugs e similares.
