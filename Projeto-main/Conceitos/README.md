@@ -1,1 +1,0 @@
-aqui serão enviados os objetivos, as ideias ou opniões sobre o que deve ser mudado no jogo.
