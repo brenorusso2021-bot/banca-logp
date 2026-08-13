@@ -1,1 +1,0 @@
-aqui serão colocados realotórios de bugs e similares. Além do relatório final, como principal.
