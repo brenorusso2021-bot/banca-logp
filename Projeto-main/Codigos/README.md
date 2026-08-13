@@ -1,1 +1,0 @@
-aqui serão enviados e administrados os códigos de cada função do jogo.
